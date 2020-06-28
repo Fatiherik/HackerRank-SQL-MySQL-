@@ -1,1 +1,1 @@
-# HackerRank-SQL-MySQL-
+# HackerRank-SQL-MySQL
